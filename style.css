@@ -1,0 +1,26 @@
+h1{
+  color: rgb(0, 68, 255);
+  font-size: 100px;
+  
+}
+.block {
+  
+  font-size: 16px;
+}
+
+.blocking {
+  font-size: 16px;
+}
+
+* {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+.personal {
+  font-size: 100px;
+  color: brown;
+}
